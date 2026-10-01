@@ -1,0 +1,7 @@
+{
+  "name": "MerchCraft - On-Demand AI Merch Mockups & Print Studio",
+  "description": "Upload your logo to generate realistic product mockups across apparel, drinkware, and accessories, customize placements, and export 300 DPI print-ready production files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "MerchCraft - Free On-Demand AI Merch Mockups (Ad-Supported)",
+  "short_name": "MerchCraft",
+  "version": "3.8.0",
+  "description": "Upload your logo to generate realistic product mockups across apparel, drinkware, and accessories, customize placements, and export 300 DPI print-ready production files. Supported by ethical creator sponsors.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open MerchCraft Mockup Studio"
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
+  ]
+}
